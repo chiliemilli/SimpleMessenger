@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511933575112",
+    "project_id": "simplemessenger-86805",
+    "storage_bucket": "simplemessenger-86805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511933575112:android:55e10d53fa480f2ba49afd",
+        "android_client_info": {
+          "package_name": "com.kubsu.simplemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511933575112-nog28gl9a84pp2hqvs9rq2uo4s6upuij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8WtrPK0Dq572ypUN5JsRZY3C7T0VQNZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511933575112-nog28gl9a84pp2hqvs9rq2uo4s6upuij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
